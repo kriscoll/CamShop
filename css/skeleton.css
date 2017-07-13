@@ -431,7 +431,7 @@ there.
   body > header {
     background: url('../Images/extreme.jpg') top center no-repeat;
     background-size: cover;
-    min-height: 680px;
+    min-height: 480px;
     width: 100%;
 
   }
